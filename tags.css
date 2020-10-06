@@ -1,0 +1,39 @@
+﻿.d_tb
+{
+	border:1px solid gray;	
+	font:normal 12px arial;
+}
+   
+   .dab_tl{border: 1px solid black; background-color:gainsboro; border: black 1px solid; font-family:Trebushet MS; font-weight:normal}
+   .dab_tr{border: 1px solid black; font-family:Trebushet MS;}
+   
+   .dab_n{font-weight:normal}
+   .dab_but{border:1px solid black; background-color:gainsboro; font:bold 12px Trebushet MS, arial, verdana}
+   
+   
+   
+/*GRID VIEW STYLES*/
+
+   .gw_head{font:normal 14px Trebushet MS, Arial, Verdana; color:white; background-color:#507CD1}
+   .gw_footer{color:white; font-weight:bold; background-color:#507CD1}
+   .gw_row{background-color:#EFF3FB}
+   .gw_page{text-align:center; color:White; background-color:#2461BF}
+   .gw_sel{color:#333333; font-weight:bold; background-color:#D1DDF1}
+   .gw_head{color:White; font-weight:bold; background-color:#507CD1}
+   .gw_edit{background-color:#2461BF}
+   .gw_alt{background-color:White}
+   th a {color:White}
+   /*td table tr td a {color:White}*/
+   .gw_item_a{font:normal 13px Trebushet MS, arial, verdana; color:blue}
+   
+/*
+<HeaderStyle BackColor="#507CD1" Font-Names="arial,verdana" Font-Size="14px" ForeColor="White"/>
+<PagerSettings Position="TopAndBottom" />
+<FooterStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
+<RowStyle BackColor="#EFF3FB" />
+<PagerStyle BackColor="#2461BF" ForeColor="White" HorizontalAlign="Center" />
+<SelectedRowStyle BackColor="#D1DDF1" Font-Bold="True" ForeColor="#333333" />
+<HeaderStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
+<EditRowStyle BackColor="#2461BF" />
+<AlternatingRowStyle BackColor="White" />
+*/
